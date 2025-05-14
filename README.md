@@ -148,7 +148,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-file:///C:/Users/admin/webex6/cover/bidhisha/bookapp/static/book.html
+![Screenshot 2025-05-09 151422](https://github.com/user-attachments/assets/4e15a0c8-4d31-4ebe-b4ae-f021daed4290)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
